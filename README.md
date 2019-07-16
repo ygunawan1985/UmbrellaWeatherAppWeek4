@@ -19,10 +19,10 @@ Instructions:
 ![](screenshots/denver.png)
 ![](screenshots/denvertwo.png)
 ![](screenshots/neworleans.png)
-![](screenshots/neworleanstwo.png)
+![](screenshots/neworleans2.png)
 ![](screenshots/littleton.png)
 ![](screenshots/littletontwo.png)
 ![](screenshots/newyork.png)
-![](screenshots/newyork2.png)
+![](screenshots/newyorktwo.png)
 
 
