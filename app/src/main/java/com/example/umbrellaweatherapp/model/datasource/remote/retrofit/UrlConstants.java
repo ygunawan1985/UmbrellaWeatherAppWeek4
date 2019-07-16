@@ -7,4 +7,5 @@ public class UrlConstants {
     public static final String QUERY_ZIP = "zip";
     public static final String QUERY_APPID = "APPID";
     public static final String ICON_URL = "http://openweathermap.org/img/wn/";
+    public static final String FORECAST_PATH = "data/2.5/forecast?";
 }

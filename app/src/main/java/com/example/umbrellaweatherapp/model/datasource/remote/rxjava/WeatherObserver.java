@@ -1,7 +1,5 @@
 package com.example.umbrellaweatherapp.model.datasource.remote.rxjava;
 
-import android.util.Log;
-
 import com.example.umbrellaweatherapp.model.weatherresponse.WeatherResponse;
 
 import io.reactivex.Observer;
